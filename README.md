@@ -1,7 +1,7 @@
 # Rethinking Minimal Sufficient Representation in Contrastive Learning
 PyTorch implementation of
 <br>
-[**Rethinking Minimal Sufficient Representation in Contrastive Learning**](http://arxiv.org/abs/2104.14385)
+[**Rethinking Minimal Sufficient Representation in Contrastive Learning**](https://arxiv.org/pdf/2203.07004)
 <br>
 Haoqing Wang, [Xun Guo](https://www.microsoft.com/en-us/research/people/xunguo/), [Zhi-hong Deng](http://www.cis.pku.edu.cn/jzyg/szdw/dzh.htm), [Yan Lu](https://www.microsoft.com/en-us/research/people/yanlu/)
 
