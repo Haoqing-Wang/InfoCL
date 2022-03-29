@@ -5,7 +5,7 @@ PyTorch implementation of
 <br>
 Haoqing Wang, [Xun Guo](https://www.microsoft.com/en-us/research/people/xunguo/), [Zhi-hong Deng](http://www.cis.pku.edu.cn/jzyg/szdw/dzh.htm), [Yan Lu](https://www.microsoft.com/en-us/research/people/yanlu/)
 
-CVPR 2022
+CVPR 2022 Oral
 
 ## Abstract
 
