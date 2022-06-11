@@ -1,7 +1,7 @@
 # Rethinking Minimal Sufficient Representation in Contrastive Learning
 PyTorch implementation of
 <br>
-[**Rethinking Minimal Sufficient Representation in Contrastive Learning**](https://arxiv.org/abs/2203.07004v2)
+[**Rethinking Minimal Sufficient Representation in Contrastive Learning**](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Rethinking_Minimal_Sufficient_Representation_in_Contrastive_Learning_CVPR_2022_paper.pdf)
 <br>
 Haoqing Wang, [Xun Guo](https://www.microsoft.com/en-us/research/people/xunguo/), [Zhi-hong Deng](http://www.cis.pku.edu.cn/jzyg/szdw/dzh.htm), [Yan Lu](https://www.microsoft.com/en-us/research/people/yanlu/)
 
@@ -16,9 +16,9 @@ If you use this code for your research, please cite our paper:
 ```
 @inproceedings{wang2022rethinking,
   title={Rethinking Minimal Sufficient Representation in Contrastive Learning},
-  author={Wang, Haoqing and Deng, Zhi-hong and Guo, Xun and Lu, Yan},
+  author={Wang, Haoqing and Guo, Xun and Deng, Zhi-Hong and Lu, Yan},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={xx--xx},
+  pages={16041--16050},
   year={2022}
 }
 ```
